@@ -4,11 +4,11 @@ Simple FiveM Notification
 ## Test Command: 
 <br>
 > /testfr3klessnotify
+<br>
 ***
 ## Triggers:
 <br>
 > TriggerEvent('fr3kless_notify:shownotify', title, content, timeout)
-<br>
 ## Sample:
 <br>
 > TriggerEvent('fr3kless_notify:shownotify', 'Powiadomienie', 'realfr3kless#0', 6000)
