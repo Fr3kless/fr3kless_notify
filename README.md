@@ -1,6 +1,6 @@
 ## fr3kless_notify
 - Simple FiveM Notification
-## In Game Preview Command
+## In Game Preview Command:
 - /testfr3klessnotify
 ## Triggers:
 - TriggerEvent('fr3kless_notify:shownotify', title, content, timeout)
