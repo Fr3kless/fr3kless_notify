@@ -1,4 +1,4 @@
-## fr3kless_notify
+## Fr3kless_Notify
 - Simple FiveM Notification
 ## In Game Preview Command
 - /testfr3klessnotify
