@@ -3,7 +3,7 @@
 ## In Game Preview Command:
 - /testfr3klessnotify
 ## Triggers:
-- TriggerEvent('fr3kless_notify:shownotify', title, content, timeout)
+- TriggerEvent('fr3kless_notify:shownotify', tytul, wiadomosc, czas)
 ## Sample:
 - TriggerEvent('fr3kless_notify:shownotify', 'Powiadomienie', 'realfr3kless#0', 6000)
 ## Preview:
