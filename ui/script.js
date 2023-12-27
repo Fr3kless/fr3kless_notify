@@ -25,7 +25,7 @@ class notyfikacjaaaa {
     }
 
     howaj() {
-        $(`#${this.id}`).animate({right: "-1000px"}, 300)
+        $(`#${this.id}`).animate({opacity: "0%"}, 300)
         setTimeout(() => {
             $(`#${this.id}`).remove();
         }, 300);
